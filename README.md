@@ -1,4 +1,4 @@
-- 👋 Hi, I’m MD. SAYEED IBNE ZAMAN (@sayeed21141073), a recent Computer Sceince graduate from BRAC University, Dhaka, Bangladesh
+- 👋 Hi, I’m MD. SAYEED IBNE ZAMAN (@sayeed21141073), a recent Computer Science graduate from BRAC University, Dhaka, Bangladesh
 - 👀 I’m interested in **Java Backend Development**
 - 🌱 I have hands on experience on **Spring, Spring MVC & Spring Booot**
 - **Please give a look to my CV and spring boot Projects and your valuable feedback is always appreciated**
