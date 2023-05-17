@@ -1,4 +1,4 @@
-- 👋 Hi, I’m MD. SAYEED IBNE ZAMAN (@sayeed21141073), a recent Computer Science graduate from BRAC University, Dhaka, Bangladesh
+- 👋 Hi, I’m MD. SAYEED IBNE ZAMAN (@sayeed21141073), a Computer Science graduate from BRAC University, Dhaka, Bangladesh
 - Currently working as a Trainee Blockchain Developer (Remote) at AHOM Limited, Uk.
 - 👀 I’m interested in **Blockchain Development, Golang Development, Rust Development**
 - 🌱 I have hands on experience on **Golang, Rust & Java. **
